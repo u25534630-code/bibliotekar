@@ -153,3 +153,5 @@
 
 Программа написана на PowerShell вместе с [Claude Code](https://claude.com/claude-code).
 Мультфильм сделан в Higgsfield, голос Библиотекаря озвучен в ElevenLabs.
+
+Лицензия MIT: пользуйтесь, меняйте и делитесь свободно.
